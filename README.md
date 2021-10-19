@@ -1,5 +1,5 @@
 ## React native Portfolio
-This repo contains a subset of the code I wrote for the React Native Map My Drive app available on iOS and Android. 
+This repo contains a subset of the code I wrote for the React Native Map My Drive app available on iOS and Android. I developed the entire app myself including the concept, architecture, logic, UI, and release. The app integrates with a lot of third party React Native libraries as well as using APIs from Firebase, TomTom, and IAPHUB.
 
 ### Map My Drive
 Map My Drive is a React Native app built for iOS and Android. It simply tracks your route as you drive, run, bike, or just move around. It makes sharing your routes easy by sharing a link to map that can be opened on a computer or mobile device or by exporting the route as different file types.  
